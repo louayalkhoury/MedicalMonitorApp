@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مُراقب طبي</string>
+    <string name="heart_rate">معدل ضربات القلب</string>
+    <string name="spo2">نسبة الأكسجين</string>
+    <string name="temperature">درجة الحرارة</string>
+    <string name="bpm">نبضة/د</string>
+    <string name="percent">%</string>
+    <string name="celsius">°م</string>
+</resources>
